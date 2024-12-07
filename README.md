@@ -2,6 +2,8 @@
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=500&color=50E8F7&width=435&lines=Software+Engineer;Yoongi3)
 
+<img align="right" width=200px alt="Unicorn" src="https://raw.githubusercontent.com/yoongi3/yoongi3/main/circle.gif"/>
+
 ***About me***
 
 I build programs with Python and React to solve problems and simplify tasks.
