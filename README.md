@@ -1,4 +1,14 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=697565&height=120&section=header" alt="header"/> 
+
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=500&color=50E8F7&width=435&lines=Software+Engineer;Yoongi3)
+
+***About me***
+
+I build programs with Python and React to solve problems and simplify tasks.
+
+***Motivation***
+
+Solving problems, big or small... that annoy me.
 
 <!--
 **yoongi3/yoongi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
