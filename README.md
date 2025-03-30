@@ -6,7 +6,7 @@
 
 ***About me***
 
-I build programs with Python and React to solve problems and simplify tasks.
+I build applications with Python and React to solve problems and simplify tasks.
 
 ***Motivation***
 
