@@ -12,6 +12,11 @@ I build programs with Python and React to solve problems and simplify tasks.
 
 Solving problems, big or small... that annoy me.
 
+***Check out my page***
+
+[![Profile Page](https://img.shields.io/badge/Profile%20Page-3fdb1c?style=for-the-badge&logo=github&logoColor=white)](https://yoongi3.github.io/jhong/)
+
+
 <!--
 **yoongi3/yoongi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
