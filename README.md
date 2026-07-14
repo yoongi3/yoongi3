@@ -8,6 +8,9 @@
 
 I build applications with Python and React to solve problems and simplify tasks.
 
+*** Skills ***
+Python, React, Networking (CompTIA Network+ certified), Linux
+
 ***Motivation***
 
 Solving problems, big or small... that annoy me.
