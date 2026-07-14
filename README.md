@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=150&section=header" alt="header"/> 
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=500&color=50E8F7&width=435&lines=Problem+Solver;Yoongi3)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=500&color=50E8F7&width=435&lines=Problem+Solver;Joshua+Hong)
 
 <img align="right" width=200px alt="Unicorn" src="https://github.com/yoongi3/yoongi3/blob/main/OB.gif?raw=true"/>
 
